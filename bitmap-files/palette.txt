@@ -1,0 +1,13 @@
+
+. #87CEEB   # sky
+_ #C2B280   # ground
+G #2F4F2F   # dark olive
+g #556B2F   # olive
+L #6B8E23   # light olive
+D #1F2F1F   # deep shadow
+S #708090   # steel
+B #2B2B2B   # barrel dark
+b #3A3A3A   # barrel mid
+T #111111   # tracks
+W #E0E0E0   # highlight
+O #FF8C00   # muzzle flash (optional)
